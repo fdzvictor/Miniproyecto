@@ -1,7 +1,7 @@
-# Proyecto ETL: Análisis de Ingresos y Gastos de Organismos Sanitarios (2013-2020)
+# Proyecto ETL: Análisis de Ingresos y Gastos de Organismos Sanitarios (2010-2020)
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo analizar los ingresos y gastos de organismos sanitarios en España desde 2013 hasta 2020. Utilizando un proceso ETL (Extracción, Transformación y Carga), hemos procesado y almacenado datos en una base de datos PostgreSQL para realizar un análisis exploratorio de datos (EDA). Este análisis nos permite identificar tendencias y patrones en las categorías de ingresos y gastos, así como obtener conclusiones relativas sobre los datos.
+Este proyecto tiene como objetivo analizar los ingresos y gastos de organismos sanitarios en España desde 2010 hasta 2020. Utilizando un proceso ETL (Extracción, Transformación y Carga), hemos procesado y almacenado datos en una base de datos PostgreSQL para realizar un análisis exploratorio de datos (EDA). Este análisis nos permite identificar tendencias y patrones en las categorías de ingresos y gastos, así como obtener conclusiones relativas sobre los datos.
 
 ## Estructura de Datos
 
